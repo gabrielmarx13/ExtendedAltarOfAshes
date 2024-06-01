@@ -1,5 +1,4 @@
 # Extended Altar of Ashes
-## Version 1 by Mehaz
 
 ### Features:
 - Adds Heroic and Legendary upgrade tiers to each of the cards with scaling and unique costs. (Note: You still must unlock card upgrades through regular progression).
