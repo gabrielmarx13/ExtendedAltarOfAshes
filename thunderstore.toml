@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Mehaz"
 name = "ExtendedAltarOfAshes"
-versionNumber = "1.1.0"
+versionNumber = "1.1.1"
 description = "Adds Heroic and Legendary upgrades to the Altar of Ashes cards and increases maximum Grasp."
 websiteUrl = "https://github.com/gabrielmarx13/ExtendedAltarOfAshes"
 containsNsfwContent = false
