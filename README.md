@@ -34,3 +34,6 @@ For your convenience:
 - CardUpgradePoints = Moon Dust
 - WeaponPointsRare = Nightmare
 - ... and everything else is fairly self-explanatory.
+
+#### Donations
+If you like what I do, you can support me on [Ko-fi](https://ko-fi.com/mehaz)
