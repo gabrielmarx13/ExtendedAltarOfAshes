@@ -1,0 +1,13 @@
+Top Import register.lua
+Top Import config.lua
+
+Import core.lua
+
+To "Scripts/MetaUpgradeData.lua"
+Import "MetaUpgradeData.lua"
+
+To "Scripts/TraitData_MetaUpgrade.lua"
+Import "TraitData_MetaUpgrade.lua"
+
+To "Scripts/TraitData.lua"
+Import "TraitData.lua"

@@ -1,5 +1,8 @@
 ## [Unreleased]
 
+### Added
+- Fixed an issue that caused the mod not to load properly from r2modman.
+
 ## [1.1.1] - 2024-06-01
 
 ### Added
